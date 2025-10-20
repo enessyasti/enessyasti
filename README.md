@@ -18,5 +18,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
 ![snake gif](https://github.com/enessyasti/enessyasti/blob/output/github-contribution-grid-snake.gif)
