@@ -19,3 +19,6 @@
 
 
 ![snake gif](https://github.com/enessyasti/enessyasti/blob/output/github-contribution-grid-snake.gif)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/enessyasti?theme=dark&font=Roboto&ext=activity)
+
