@@ -1,53 +1,48 @@
-# 💫 About Me
-🧠 I'm currently working on  
-Developing innovative web-based projects that combine **AI, automation, and modern design principles**.  
-I enjoy exploring new ideas and turning concepts into functional prototypes.  
+### <div align="center"><strong>Hi, I'm Enes Yastı — Full-Stack Developer & AI Enthusiast 👨‍💻</strong></div>
 
-🤝 I'm looking to collaborate on  
-Startup-oriented projects or coding collaborations where learning and building go hand in hand.  
+<p align="center">
+  <!-- Yazma animasyonu -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=4BC3F7&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Innovative+Web+Projects" alt="Typing SVG" />
+</p>
 
-🆘 I'm looking for help with  
-Improving backend performance, integrating smarter AI workflows, and refining scalable system designs.  
-
-📚 I'm currently learning  
-**Java, Computer Security, IT System Analysis, and Web Application Platforms** — while continuously improving my full-stack development skills.  
-
-💬 Ask me about  
-Startup development, creative ideation, and bringing abstract concepts to life through design and technology.  
-
-⚡ Fun fact  
-If I have an unfinished idea on my mind, I can’t sleep until I make progress on it 😅  
+<p align="center">
+  <!-- Dalgalanan üst banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4BC3F7,100:007ACC&height=100&section=header" width="100%"/>
+</p>
 
 ---
 
-# 💻 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+# 💻 Tech Stack & Skills
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
 # 📊 GitHub Stats
-
-### Overall Contributions
-![](https://github-readme-stats.vercel.app/api?username=enessyasti&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
-
-### Streaks
-![](https://nirzak-streak-stats.vercel.app/?user=enessyasti&theme=shadow_green&hide_border=false)
-
----
-
-# 📊 Repo Language Distribution (Havalı Çubuk Gösterge)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enessyasti&theme=radical&hide_border=false&layout=compact&langs_count=8)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enessyasti&theme=blue-green&hide_border=true" />
+<br/><br/>
+<img src="https://github-contribution-stats.vercel.app/api/?username=enessyasti&theme=radical" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enessyasti&theme=radical&layout=compact&hide_border=false&langs_count=8" />
+</p>
 
 ---
 
-# 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/enessyasti?theme=dark&font=Roboto&ext=activity)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=enessyasti&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <!-- Dalgalanan alt banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:4BC3F7&height=80&section=footer"/>
+</p>
