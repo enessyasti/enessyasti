@@ -53,7 +53,7 @@
 
 # 🐍 Contributions Snake
 <p align="center">
-  <img src="https://i.imgur.com/R5RhBt6.gif" width="600" alt="Snake Animation" />
+  <img src="https://i.imgur.com/R5RhBt6.gif" width="800" alt="Snake Animation" />
 </p>
 
 ---
