@@ -20,13 +20,6 @@ If I have an unfinished idea on my mind, I can’t sleep until I make progress o
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enes-yast%C4%B1-1b520b208/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/)  
-
----
-
 # 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -49,18 +42,10 @@ If I have an unfinished idea on my mind, I can’t sleep until I make progress o
 ### Streaks
 ![](https://nirzak-streak-stats.vercel.app/?user=enessyasti&theme=shadow_green&hide_border=false)
 
-### Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enessyasti&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
-# 📈 Repo Language Distribution
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enessyasti&layout=pie&theme=radical)
-
----
-
-# 🐍 Contributions Snake
-![snake gif](https://github.com/enessyasti/enessyasti/blob/output/github-contribution-grid-snake.gif)
+# 📊 Repo Language Distribution (Havalı Çubuk Gösterge)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=enessyasti&theme=radical&hide_border=false&layout=compact&langs_count=8)
 
 ---
 
