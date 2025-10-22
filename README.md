@@ -14,23 +14,23 @@
 
 # 💻 Tech Stack
 <p align="center">
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 </p>
 
 ---
 
 # 💫 About Me
 <p align="center" style="font-size:14px;line-height:1.4;">
-🧠 Currently developing **web-based projects combining AI, automation, and modern design**.<br>
+🧠 Currently developing <strong>web-based projects combining AI, automation, and modern design</strong>.<br>
 🤝 Looking to collaborate on startup-oriented projects.<br>
 🆘 Seeking help with backend performance, smarter AI workflows, scalable systems.<br>
 📚 Learning: Java, Computer Security, IT System Analysis, Web Apps.<br>
@@ -53,14 +53,14 @@
 
 # 🐍 Contributions Snake
 <p align="center">
-![snake gif](https://github.com/enessyasti/enessyasti/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/enessyasti/enessyasti/output/github-contribution-grid-snake.gif" alt="Snake Animation" />
 </p>
 
 ---
 
 # 🏆 LeetCode Stats
 <p align="center">
-![LeetCode Stats](https://leetcard.jacoblin.cool/enessyasti?theme=dark&font=Roboto&ext=activity)
+<img src="https://leetcard.jacoblin.cool/enessyasti?theme=dark&font=Roboto&ext=activity" alt="LeetCode Stats"/>
 </p>
 
 ---
