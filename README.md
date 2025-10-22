@@ -53,7 +53,7 @@
 
 # 🐍 Contributions Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enessyasti/enessyasti/main/output/snake.gif" width="300" alt="Snake Animation" />
+  <img src="https://i.imgur.com/R5RhBt6.gif" width="300" alt="Snake Animation" />
 </p>
 
 ---
