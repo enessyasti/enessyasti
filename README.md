@@ -49,7 +49,7 @@
 
 ---
 
-## 🧩 Matrix-Style Live Code
+## Live Code
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" width="500" />
 </p>
