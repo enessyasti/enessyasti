@@ -53,6 +53,12 @@
 <p align="center">
   <img src="https://i.gifer.com/7VE.gif" width="500" />
 </p>
+<p align="center">
+  <img src="https://i.gifer.com/133C.gif" width="500" />
+</p>
+<p align="center">
+  <img src="https://i.gifer.com/2Gq1.gif" width="500" />
+</p>
 
 ---
 
