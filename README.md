@@ -1,12 +1,10 @@
-### <div align="center"><strong>Hi, I'm Enes Yastı — Full-Stack Developer & AI Enthusiast 👨‍💻</strong></div>
+<div align="center"><strong>Hi, I'm Enes Yastı — Developer & AI Enthusiast 👨‍💻</strong></div>
 
 <p align="center">
-  <!-- Yazma animasyonu -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=ffffff&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%26+Automation+Enthusiast;Building+Innovative+Web+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <!-- Dalgalanan üst banner (farklı renk geçişli) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=100&section=header" width="100%"/>
 </p>
 
@@ -21,9 +19,12 @@
 <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase" />
+<img src="https://img.shields.io/badge/Firebase-%23039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+<img src="https://img.shields.io/badge/Shopify-121212?style=for-the-badge&logo=shopify&logoColor=7BC6A4" />
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
@@ -34,8 +35,23 @@
 🤝 Looking to collaborate on startup-oriented projects.<br>
 🆘 Seeking help with backend performance, smarter AI workflows, scalable systems.<br>
 📚 Learning: Java, Computer Security, IT System Analysis, Web Apps.<br>
-💬 Ask me about startup dev, creative ideation, bringing ideas to life.<br>
 ⚡ Fun fact: Can't sleep with unfinished ideas 😅
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/enes-yast%C4%B1-1b520b208/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:enessyasti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧩 Matrix-Style Live Code
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="500" />
 </p>
 
 ---
@@ -66,6 +82,5 @@
 ---
 
 <p align="center">
-  <!-- Dalgalanan alt banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=80&section=footer"/>
 </p>
